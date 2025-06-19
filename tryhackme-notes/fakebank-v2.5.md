@@ -32,3 +32,6 @@ dirb http://fakebank.thm
 + http://fakebank.thm/images       (CODE:301|SIZE:179)
 
 访问第一个隐藏页面并注资
+(../img/Snipaste_2025-06-19_17-37-00.png)
+
+
