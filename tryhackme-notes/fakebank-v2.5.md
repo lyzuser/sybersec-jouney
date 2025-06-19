@@ -33,5 +33,5 @@ dirb http://fakebank.thm
 
 访问第一个隐藏页面并注资
 ![攻击成功页面截图](../img/Snipaste_2025-06-19_17-37-00.png)
-
+页面不显示
 
