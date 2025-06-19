@@ -32,6 +32,5 @@ dirb http://fakebank.thm
 + http://fakebank.thm/images       (CODE:301|SIZE:179)
 
 访问第一个隐藏页面并注资
-![攻击成功页面截图](../img/Snipaste_2025-06-19_17-37-00.png)
-页面不显示
+[![攻击成功页面截图](https://github.com/lyzuser/sybersec-jouney/blob/main/img/Snipaste_2025-06-19_17-37-00.png)
 
